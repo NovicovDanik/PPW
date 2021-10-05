@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-05T20:28:12.294Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 OPR/79.0.4143.73" etag="qc8mgALUvZus-_WGWpfX" version="15.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-05T20:37:16.195Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 OPR/79.0.4143.73" etag="K_uEol0S1anq7ORe54q9" version="15.3.5" type="github">
   <diagram id="eKYlq76rNZnLBtfX62G9" name="Page-1">
     <mxGraphModel dx="1422" dy="764" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#114B5F" math="0" shadow="0">
       <root>
@@ -24,7 +24,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HFtPqclyL5IR0Il3LefF-28" value="Сайт&lt;br&gt;gamenews.com" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#E4FDE1;" parent="1" vertex="1">
+        <mxCell id="HFtPqclyL5IR0Il3LefF-28" value="Сайт&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#E4FDE1;" parent="1" vertex="1">
           <mxGeometry x="330" y="40" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HFtPqclyL5IR0Il3LefF-31" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;" parent="1" vertex="1">
