@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-05T20:13:17.670Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 OPR/79.0.4143.73" etag="6VpANDn3Vshz9U-X4LQc" version="15.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-05T20:28:12.294Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 OPR/79.0.4143.73" etag="qc8mgALUvZus-_WGWpfX" version="15.3.5" type="github">
   <diagram id="eKYlq76rNZnLBtfX62G9" name="Page-1">
     <mxGraphModel dx="1422" dy="764" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#114B5F" math="0" shadow="0">
       <root>
@@ -51,7 +51,7 @@
             <mxPoint x="600" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HFtPqclyL5IR0Il3LefF-45" value="тема n-1" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#E4FDE1;strokeColor=#028090;fillColor=#F45B69;" parent="1" vertex="1">
+        <mxCell id="HFtPqclyL5IR0Il3LefF-45" value="тема n" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#E4FDE1;strokeColor=#028090;fillColor=#F45B69;" parent="1" vertex="1">
           <mxGeometry x="530" y="120" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HFtPqclyL5IR0Il3LefF-46" value="" style="endArrow=classic;html=1;fontColor=#E4FDE1;strokeColor=#028090;fillColor=#F45B69;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=#114B5F;" parent="1" source="HFtPqclyL5IR0Il3LefF-43" target="HFtPqclyL5IR0Il3LefF-47" edge="1">
