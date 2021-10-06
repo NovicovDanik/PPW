@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-06T05:05:20.616Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 OPR/79.0.4143.73" etag="rfF0OGuPBm4ZpQhQisRB" version="15.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-06T05:43:04.374Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 OPR/79.0.4143.73" etag="tQBGPl7MJcb2Lp-JDMhs" version="15.4.3" type="github">
   <diagram id="BNYhW4qLJf6dbQhoZxtP" name="Page-1">
     <mxGraphModel dx="2249" dy="1933" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -45,7 +45,7 @@
         <mxCell id="Z32YWCErlfc_Y4S0Vm6A-18" value="Боковая панель" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;strokeColor=#CC0000;" parent="1" vertex="1">
           <mxGeometry x="-306" y="-1098" width="120" height="189" as="geometry" />
         </mxCell>
-        <mxCell id="Z32YWCErlfc_Y4S0Vm6A-19" value="Футер" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;strokeColor=#990000;" parent="1" vertex="1">
+        <mxCell id="Z32YWCErlfc_Y4S0Vm6A-19" value="FOOTER" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;strokeColor=#990000;" parent="1" vertex="1">
           <mxGeometry x="-496" y="-849" width="310" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z32YWCErlfc_Y4S0Vm6A-32" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" source="Z32YWCErlfc_Y4S0Vm6A-20" edge="1">
@@ -68,7 +68,7 @@
         <mxCell id="Z32YWCErlfc_Y4S0Vm6A-28" value="Форум" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-567" y="-723" width="94" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Z32YWCErlfc_Y4S0Vm6A-34" value="Футер" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;strokeColor=#990000;" parent="1" vertex="1">
+        <mxCell id="Z32YWCErlfc_Y4S0Vm6A-34" value="FOOTER" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;strokeColor=#990000;" parent="1" vertex="1">
           <mxGeometry x="-791" y="-416" width="310" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z32YWCErlfc_Y4S0Vm6A-36" value="Главное за сегодня" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;strokeColor=#FF6666;" parent="1" vertex="1">
@@ -135,7 +135,7 @@
         <mxCell id="Z32YWCErlfc_Y4S0Vm6A-57" value="Страница с новостью" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" parent="1" vertex="1">
           <mxGeometry x="-393" y="-667" width="310" height="243" as="geometry" />
         </mxCell>
-        <mxCell id="Z32YWCErlfc_Y4S0Vm6A-58" value="Футер" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;strokeColor=#990000;" parent="1" vertex="1">
+        <mxCell id="Z32YWCErlfc_Y4S0Vm6A-58" value="FOOTER" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;strokeColor=#990000;" parent="1" vertex="1">
           <mxGeometry x="-394" y="-416" width="310" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z32YWCErlfc_Y4S0Vm6A-61" value="" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" parent="1" vertex="1">
@@ -156,7 +156,7 @@
         <mxCell id="Z32YWCErlfc_Y4S0Vm6A-65" value="Тема n" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" parent="1" vertex="1">
           <mxGeometry x="76" y="-1026" width="317" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="Z32YWCErlfc_Y4S0Vm6A-66" value="Футер" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" parent="1" vertex="1">
+        <mxCell id="Z32YWCErlfc_Y4S0Vm6A-66" value="FOOTER" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" parent="1" vertex="1">
           <mxGeometry x="79" y="-776" width="310" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z32YWCErlfc_Y4S0Vm6A-81" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.309;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" parent="1" source="Z32YWCErlfc_Y4S0Vm6A-67" target="Z32YWCErlfc_Y4S0Vm6A-74" edge="1">
@@ -188,7 +188,7 @@
         <mxCell id="Z32YWCErlfc_Y4S0Vm6A-75" value="Главная" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="448.5" y="-1083" width="94" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Z32YWCErlfc_Y4S0Vm6A-76" value="Футер" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" parent="1" vertex="1">
+        <mxCell id="Z32YWCErlfc_Y4S0Vm6A-76" value="FOOTER" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" parent="1" vertex="1">
           <mxGeometry x="456" y="-776" width="310" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z32YWCErlfc_Y4S0Vm6A-77" value="Страница с беседой по данной теме" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" parent="1" vertex="1">
